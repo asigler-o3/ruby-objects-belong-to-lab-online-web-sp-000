@@ -8,5 +8,3 @@ class Artist
   artist = Artist.new
   artist.name = "Beyonce" 
 end
-
-
